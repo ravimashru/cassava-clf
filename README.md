@@ -13,3 +13,9 @@ Data source: [Kaggle - Cassava Leaf Disease Classification](https://www.kaggle.c
 [Notebook](01-baseline.ipynb)
 
 Accuracy achieved: 0.879645
+
+### Progressive Resizing with Test Time Augmentation
+
+[Notebook](02-progressive-resizing.ipynb)
+
+Accuracy achieved: 0.885029
