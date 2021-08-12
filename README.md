@@ -14,8 +14,14 @@ Data source: [Kaggle - Cassava Leaf Disease Classification](https://www.kaggle.c
 
 Accuracy achieved: 0.879645
 
-### Progressive Resizing with Test Time Augmentation
+### Progressive Resizing, Normalization and Test Time Augmentation
 
 [Notebook](02-progressive-resizing.ipynb)
 
 Accuracy achieved: 0.885029
+
+### Progressive Resizing, Normalization, Test Time Augmentation and MixUp
+
+[Blog post](https://ravimashru.dev/blog/2021-08-11-fastbook-ch7/)
+
+Accuracy achieved: 0.885019
